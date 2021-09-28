@@ -1,0 +1,1 @@
+logstash -f arquivo.conf
